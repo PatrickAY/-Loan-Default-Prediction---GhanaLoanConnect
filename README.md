@@ -79,6 +79,12 @@ This project addresses the problem of **Non-Performing Loans (NPLs)** at GhanaLo
 ##  Project Structure
 
 
+├── loan_borrower_data.csv            # The main dataset used for training and evaluation
+├── Bank loan default.ipynb           # Jupyter notebook containing all preprocessing, modelling, and evaluation steps
+├── Report_Project_Approach.docx      # Report on project workflow and team contributions
+├── Report_Findings_Recommendations.docx  # Report on insights, results, and recommendations
+├── README.md                         # Overview of the project, team, and outcomes
+
 
 
 ## Team
