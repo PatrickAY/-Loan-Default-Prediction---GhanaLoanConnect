@@ -62,7 +62,7 @@ This project addresses the problem of **Non-Performing Loans (NPLs)** at GhanaLo
 
 | Model               | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |--------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression| ~0.90    | ~0.91     | ~0.97  | ~0.94    | ~0.95   |
+| Logistic Regression| 0.90    | 0.91     | 0.97  | 0.94    | 0.95   |
 | Gradient Boosting  | **0.99** | **0.99**  | **0.997** | **0.99** | **0.995** |
 | Random Forest (Tuned)| TBD   | TBD       | TBD    | TBD      | TBD     |
 
