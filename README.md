@@ -1,4 +1,4 @@
-# -Loan-Default-Prediction---GhanaLoanConnect
+# Loan Default Prediction-GhanaLoanConnect
 
 ## Overview
 
@@ -87,13 +87,13 @@ This project addresses the problem of **Non-Performing Loans (NPLs)** at GhanaLo
 - Patrick Ayeh Ayisi  
 
 **Collaborators**  
--Umar Zaidu Yakubu
--David Wilson
--Owiredu-Amoh Baffuor Etto Jr.
--Marvin Dawson
--Jemima Ama Fiapemetsi
--Iwikotan Oreofe Gloria
--Maya Leotina Agebedekpui
+- Umar Zaidu Yakubu
+- David Wilson
+- Owiredu-Amoh Baffuor Etto Jr.
+- Marvin Dawson
+- Jemima Ama Fiapemetsi
+- Iwikotan Oreofe Gloria
+- Maya Leotina Agebedekpui
 
 
 
